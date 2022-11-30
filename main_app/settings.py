@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     #my _project
     'rest_framework',
+    'rest_framework.authtoken',
     'applications.account',
 ]
 
